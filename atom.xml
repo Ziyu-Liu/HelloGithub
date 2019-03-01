@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ziyu&#39;s Blog</title>
+  
+  <subtitle>C/C++ Engineer in OPPO</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ziyu-liu.github.io/"/>
+  <updated>2019-03-01T13:25:08.834Z</updated>
+  <id>https://ziyu-liu.github.io/</id>
+  
+  <author>
+    <name>LiuZiyu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HowToWriteBlog</title>
+    <link href="https://ziyu-liu.github.io/2019/02/06/HowToWriteBlog/"/>
+    <id>https://ziyu-liu.github.io/2019/02/06/HowToWriteBlog/</id>
+    <published>2019-02-06T06:35:46.000Z</published>
+    <updated>2019-03-01T13:25:08.834Z</updated>
+    
+    <content type="html"><![CDATA[<p>已经搭建好了hexo博客并部署到github page上，如何写博客，又如何上传，需要用到哪些命令行？</p><ol><li><p>创建一篇新的文章</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure></li><li><p>写文章</p></li></ol><p>使用VS Code编辑器进行markdown格式的写作。</p><ol start="3"><li>上传文章</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean              清除站点文件</span><br><span class="line"></span><br><span class="line">$ hexo generate -deploy   重新生成站点文件并将之推送到指定的库分支</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;已经搭建好了hexo博客并部署到github page上，如何写博客，又如何上传，需要用到哪些命令行？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;创建一篇新的文章&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gu
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://ziyu-liu.github.io/categories/Hexo/"/>
+    
+    
+      <category term="-essay" scheme="https://ziyu-liu.github.io/tags/essay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A New Day,A New Year</title>
+    <link href="https://ziyu-liu.github.io/2019/02/05/article20190205/"/>
+    <id>https://ziyu-liu.github.io/2019/02/05/article20190205/</id>
+    <published>2019-02-04T16:27:32.000Z</published>
+    <updated>2019-02-04T16:50:23.009Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新年快乐"><a href="#新年快乐" class="headerlink" title="新年快乐"></a>新年快乐</h1><p>新的一年在烟花声中到来了，过去一年有许多许多光阴被虚度，也迷茫过。</p><p>万幸，可能一直都有那么一点点运气，能够有个机会去找到一条路，去实现一个目标。此时需要坚定的走下去，就从这一天开始。</p><p>虽然基础基本为零，也没什么系统训练，但还是要自己去加倍的努力，努力走下去。</p><p>希望以后能够有规律的写博客，就从这一篇开始。</p><h1 id="2019年规划"><a href="#2019年规划" class="headerlink" title="2019年规划"></a>2019年规划</h1><h2 id="1-能够顺利的毕业。"><a href="#1-能够顺利的毕业。" class="headerlink" title="1.能够顺利的毕业。"></a>1.能够顺利的毕业。</h2><p>1.1 要把项目和毕业论文规划好。知道自己要做什么，要达成什么样的效果。</p><p>1.2 要好好学习UG二次开发，其实也没想象的那么难，做个有心人。</p><p>1.3 以后要多坐在实验室，而不是寝室。</p><h2 id="2-能够顺利融入工作"><a href="#2-能够顺利融入工作" class="headerlink" title="2.能够顺利融入工作"></a>2.能够顺利融入工作</h2><p>2.1 要好好学习C/C++的知识，学好基础。</p><p>2.2 要改变自己，而不是被改变。</p><h2 id="3-Love-XD"><a href="#3-Love-XD" class="headerlink" title="3.Love XD"></a>3.Love XD</h2><p>希望新的一年顺顺利利，健健康康。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;新年快乐&quot;&gt;&lt;a href=&quot;#新年快乐&quot; class=&quot;headerlink&quot; title=&quot;新年快乐&quot;&gt;&lt;/a&gt;新年快乐&lt;/h1&gt;&lt;p&gt;新的一年在烟花声中到来了，过去一年有许多许多光阴被虚度，也迷茫过。&lt;/p&gt;
+&lt;p&gt;万幸，可能一直都有那么一点点运气，能够有个
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://ziyu-liu.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="-essay" scheme="https://ziyu-liu.github.io/tags/essay/"/>
+    
+  </entry>
+  
+</feed>
